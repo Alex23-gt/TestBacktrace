@@ -47,6 +47,8 @@ int main(int argc, char **argv) {
   return 0;
 }
 
+//ссылка на сайт:https://eli.thegreenplace.net/2015/programmatic-access-to-the-call-stack-in-c/#footnote-2
+
 /*#define UNW_LOCAL_ONLY
 #include <cxxabi.h>
 #include <libunwind.h>
